@@ -11,3 +11,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 
+
+![snake gif](https://github.com/dhanasekaranr21/dhanasekaranr21/blob/output/github-contribution-grid-snake.gif)
+
