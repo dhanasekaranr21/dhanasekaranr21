@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 📫 How to reach me **dhanasekarravi98@gmail.com**
+- 📫 How to reach me **dhanasekaran.r@vakilsearch.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
