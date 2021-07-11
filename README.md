@@ -27,5 +27,4 @@
 ### Watch my contribution graph get eaten by the snake
 ![snake gif](https://github.com/dhanasekaranr21/dhanasekaranr21/blob/output/github-contribution-grid-snake.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dhanasekaranr21.dhanasekaranr21)
 
