@@ -25,6 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanasekaranr21&" alt="dhanasekaranr21" /></p>
 
 
-### Watch my contribution graph get eaten by the snake snake
+### Watch my contribution graph get eaten by the snake
 ![snake gif](https://github.com/dhanasekaranr21/dhanasekaranr21/blob/output/github-contribution-grid-snake.gif)
 
