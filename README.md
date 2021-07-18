@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm dhana</h1>
 
 - 🌱 I’m currently learning **Ruby on Rails**
+- ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
+- 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ## 🔗 Connect With Me:
 [![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/dhanar98)
