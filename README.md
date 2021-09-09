@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dhana</h1>
+<h1 align="center">Hi 👋, I'm dhanasekaran</h1>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 - ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
